@@ -116,7 +116,7 @@ class Philosopher implements Runnable{
     }
 }
 
-public class CS2012-P06-Code-100512X{
+public class dining_philosophers{
     public static void main(String[] args) {
 
         Bowl noodleBowl = new Bowl();
